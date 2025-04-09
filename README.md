@@ -1,3 +1,12 @@
+Grupo:
+- Vinicius Aragão Figueiredo
+- Maria Luiza Vaz de Almeida
+- Cauan Silva Oliveira
+- João Vitor de Melo Cardoso
+- Augusto André Feltre de Araújo Costa
+- Guilherme Martins de Azevedo
+
+
 # Semeando o Futuro
 
 # Vida na Roça: A Jornada de Raimundo
