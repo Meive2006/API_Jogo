@@ -40,3 +40,7 @@ Público alvo: Jovens de 8 aos 18 anos.
 Classificação: Livre.
 
 Plataforma: Pc.
+
+
+![Image](https://github.com/user-attachments/assets/ddaa2087-f61f-4bde-af99-138fbb585ae8)
+
