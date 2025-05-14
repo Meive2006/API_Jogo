@@ -42,5 +42,8 @@ Classificação: Livre.
 Plataforma: Pc.
 
 
+Fluxograma da API:
+
+
 ![Image](https://github.com/user-attachments/assets/ddaa2087-f61f-4bde-af99-138fbb585ae8)
 
