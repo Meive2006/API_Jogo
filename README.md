@@ -4,8 +4,6 @@ Grupo:
 - Cauan Silva Oliveira
 - João Vitor de Melo Cardoso
 - Augusto André Feltre de Araújo Costa
-- Guilherme Martins de Azevedo
-
 
 # Semeando o Futuro
 
